@@ -1,0 +1,1 @@
+i disabled "Linux subsystem" check box from ( Win + S .. Turn on off Windows features)
